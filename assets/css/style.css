@@ -1,0 +1,41 @@
+* {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+body {
+  background-color: #f8fcfd;
+}
+
+.headers {
+  color: darkblue;
+  font-size: 26px;
+  line-height: 100px;
+  font-weight: bold;
+}
+
+.section  {
+  line-height: 50px;
+  text-align: center;
+  margin: 50px auto;
+  border-top: 5px solid darkblue;
+}
+
+.judge {
+  width: 400px;
+  height: 400px;
+}
+
+#paragraph-1 {
+  color: darkslateblue;
+  background-color: white;
+}
+
+#paragraph-2 {
+  color: darkslateblue;
+  background-color: darkorange;
+}
+
+#paragraph-3 {
+    color: white;
+    background-color: darkslateblue;
+}
